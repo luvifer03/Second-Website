@@ -10,9 +10,9 @@ The second paragraph will tell about my skills.
 
 The third paragraph will tell about my experience.
 
-List:
--one
--two
--three
+List :
+- one
+- two
+- three
 
 Thank you for visiting.
